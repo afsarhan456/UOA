@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/camro/OneDrive/Desktop/GaminAssignment-KhanAfsar/UOA/src/test/java/testcases">
+        <classes>
+            <class name="testcases.ValidatingLinkUsingArray">
+                <methods>
+                    <include name="validateLinksUsingArray"/>
+                </methods>
+            </class>
+            <class name="testcases.ValidatingLinks">
+                <methods>
+                    <include name="validateLinks"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

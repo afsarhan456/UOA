@@ -1,0 +1,6 @@
+Link Text,Expected URL,Actual URL,Pass/Fail
+Student Services Centre,https://apps.ualberta.ca/appslink/link/help/helpstudents,https://www.ualberta.ca/services/student-service-centre/index.html,Fail
+Staff Services Centre,https://apps.ualberta.ca/appslink/link/help/helpstaff,https://www.ualberta.ca/services/staff-service-centre/index.html,Fail
+Information Services and Technology,https://apps.ualberta.ca/appslink/link/help/helpist,https://uofaprod.service-now.com/sp?id=index,Fail
+Support Partners,https://apps.ualberta.ca/appslink/auth/help/helppartners,https://login.ualberta.ca/module.php/core/loginuserpass.php?AuthState=_ecf68149ce42561abd7f69d96feb2f7fbdb908da32%3Ahttps%3A%2F%2Flogin.ualberta.ca%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fapps.ualberta.ca%26RelayState%3DReturnUrl%253D%25252Fappslink%25252Fauth%25252Fhelp%25252Fhelppartners%26cookieTime%3D1683741942,Fail
+Customize this page,https://apps.ualberta.ca/appslink/auth/help/helpcustomize,https://login.ualberta.ca/module.php/core/loginuserpass.php?AuthState=_c14eb72b49736c30789ca19daeefe91cb1860c5eb0%3Ahttps%3A%2F%2Flogin.ualberta.ca%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fapps.ualberta.ca%26RelayState%3DReturnUrl%253D%25252Fappslink%25252Fauth%25252Fhelp%25252Fhelpcustomize%26cookieTime%3D1683741943,Fail
